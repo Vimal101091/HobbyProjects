@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Linkedlist" Database="" Version="10.0.0">
+  <Project Name="LinkedList_1" Path="LinkedList_1/LinkedList_1.project" Active="No"/>
+  <Project Name="LinkedList2" Path="LinkedList2/LinkedList2.project" Active="Yes"/>
+  <Project Name="LinkedList_3" Path="LinkedList_3/LinkedList_3.project" Active="No"/>
+  <Project Name="LinkedList_4" Path="LinkedList_4/LinkedList_4.project" Active="No"/>
+  <Project Name="LinkedList_5" Path="LinkedList_5/LinkedList_5.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="LinkedList_1" ConfigName="Debug"/>
+      <Project Name="LinkedList2" ConfigName="Debug"/>
+      <Project Name="LinkedList_3" ConfigName="Debug"/>
+      <Project Name="LinkedList_4" ConfigName="Debug"/>
+      <Project Name="LinkedList_5" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="LinkedList_1" ConfigName="Release"/>
+      <Project Name="LinkedList2" ConfigName="Release"/>
+      <Project Name="LinkedList_3" ConfigName="Release"/>
+      <Project Name="LinkedList_4" ConfigName="Release"/>
+      <Project Name="LinkedList_5" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

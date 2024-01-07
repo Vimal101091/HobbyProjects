@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Recursion" Database="" Version="10.0.0">
+  <Project Name="Recursion_1" Path="Recursion_1/Recursion_1.project" Active="No"/>
+  <Project Name="Recursion_2" Path="Recursion_2/Recursion_2.project" Active="Yes"/>
+  <Project Name="Recursion_3" Path="Recursion_3/Recursion_3.project" Active="No"/>
+  <Project Name="Recursion_4" Path="Recursion_4/Recursion_4.project" Active="No"/>
+  <Project Name="Recursion_FindingSubsets" Path="Recursion_FindingSubsets/Recursion_FindingSubsets.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Recursion_1" ConfigName="Debug"/>
+      <Project Name="Recursion_2" ConfigName="Debug"/>
+      <Project Name="Recursion_3" ConfigName="Debug"/>
+      <Project Name="Recursion_4" ConfigName="Debug"/>
+      <Project Name="Recursion_FindingSubsets" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Recursion_1" ConfigName="Release"/>
+      <Project Name="Recursion_2" ConfigName="Release"/>
+      <Project Name="Recursion_3" ConfigName="Release"/>
+      <Project Name="Recursion_4" ConfigName="Release"/>
+      <Project Name="Recursion_FindingSubsets" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

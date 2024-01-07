@@ -1,0 +1,18 @@
+Stack	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^template <typename T> class Stack $/;"	class	line:2
+size	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^    int size;$/;"	member	line:5	class:Stack	access:private
+top	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^    int top;$/;"	member	line:6	class:Stack	access:private
+stack	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^    T* stack;$/;"	member	line:7	class:Stack	access:private
+Stack	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^    Stack(int s);$/;"	prototype	line:10	class:Stack	access:public	signature:(int s)
+~Stack	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^    ~Stack();$/;"	prototype	line:11	class:Stack	access:public	signature:()
+push	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^    void push(T element);$/;"	prototype	line:12	class:Stack	access:public	signature:(T element)	returns:void 
+pop	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^    T pop();$/;"	prototype	line:13	class:Stack	access:public	signature:()	returns:T 
+display	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^    void display();$/;"	prototype	line:14	class:Stack	access:public	signature:()	returns:void 
+isfull	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^    bool isfull();$/;"	prototype	line:15	class:Stack	access:public	signature:()	returns:bool 
+isempty	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^    bool isempty();$/;"	prototype	line:16	class:Stack	access:public	signature:()	returns:bool 
+Stack	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^template <typename T> Stack<T>::Stack(int s) $/;"	function	line:19	class:Stack	signature:(int s)	returns:template Stack <T> :: 
+~Stack	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^template <typename T> Stack<T>::~Stack() $/;"	function	line:26	class:Stack	signature:()	returns:template Stack <T> :: 
+push	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^template <typename T> void Stack<T>::push(T element) $/;"	function	line:31	class:Stack	signature:(T element)	returns:template void Stack <T> :: 
+pop	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^template <typename T> T Stack<T>::pop() $/;"	function	line:42	class:Stack	signature:()	returns:template T Stack <T> :: 
+display	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^template <typename T> void Stack<T>::display() $/;"	function	line:55	class:Stack	signature:()	returns:template void Stack <T> :: 
+isfull	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^template <typename T> bool Stack<T>::isfull() $/;"	function	line:66	class:Stack	signature:()	returns:template bool Stack <T> :: 
+isempty	E:\MOOC\Udemy Courses\Datastructures\Stack\Stack\Stack_01\Stack.h	/^template <typename T> bool Stack<T>::isempty() $/;"	function	line:71	class:Stack	signature:()	returns:template bool Stack <T> :: 

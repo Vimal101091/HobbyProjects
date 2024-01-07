@@ -1,0 +1,18 @@
+std	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr {$/;"	namespace	line:1
+shared_ptr	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr { $/;"	class	line:1	namespace:std
+operator ->	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    _Tp* operator->();$/;"	prototype	line:2	class:std::shared_ptr	access:private	signature:()	returns:_Tp 
+reset	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr );$/;"	prototype	line:3	class:std::shared_ptr	access:private	signature:( Y* ptr )	returns:void 
+reset	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d );$/;"	prototype	line:4	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d )	returns:void 
+reset	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d, Alloc alloc );$/;"	prototype	line:5	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d, Alloc alloc )	returns:void 
+get	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    _T* get() const;$/;"	prototype	line:6	class:std::shared_ptr	access:private	signature:() const	returns:_T 
+power	E:\MOOC\Udemy Courses\Datastructures\Recursion\Recursion\Recursion_4\main.cpp	/^int power(int n)$/;"	function	line:3	signature:(int n)	returns:int 
+main	E:\MOOC\Udemy Courses\Datastructures\Recursion\Recursion\Recursion_4\main.cpp	/^int main(int argc, char** argv)$/;"	function	line:11	signature:(int argc, char** argv)	returns:int 
+print	E:\MOOC\Udemy Courses\Datastructures\Recursion\Recursion\Recursion_FindingSubsets\main.cpp	/^void print(std::vector<int>& subset)$/;"	function	line:4	signature:(std::vector<int>& subset)	returns:void 
+Subsets	E:\MOOC\Udemy Courses\Datastructures\Recursion\Recursion\Recursion_FindingSubsets\main.cpp	/^void Subsets(std::vector<int> set, int index)$/;"	function	line:11	signature:(std::vector<int> set, int index)	returns:void 
+main	E:\MOOC\Udemy Courses\Datastructures\Recursion\Recursion\Recursion_FindingSubsets\main.cpp	/^int main()$/;"	function	line:23	signature:()	returns:int 
+fact	E:\MOOC\Udemy Courses\Datastructures\Recursion\Recursion\Recursion_3\main.cpp	/^int fact(int n)$/;"	function	line:3	signature:(int n)	returns:int 
+main	E:\MOOC\Udemy Courses\Datastructures\Recursion\Recursion\Recursion_3\main.cpp	/^int main(int argc, char** argv)$/;"	function	line:11	signature:(int argc, char** argv)	returns:int 
+fun	E:\MOOC\Udemy Courses\Datastructures\Recursion\Recursion\Recursion_1\main.cpp	/^int fun(int n)$/;"	function	line:2	signature:(int n)	returns:int 
+main	E:\MOOC\Udemy Courses\Datastructures\Recursion\Recursion\Recursion_1\main.cpp	/^int main() {$/;"	function	line:12	signature:()	returns:int 
+sum	E:\MOOC\Udemy Courses\Datastructures\Recursion\Recursion\Recursion_2\main.cpp	/^int sum(int n)$/;"	function	line:3	signature:(int n)	returns:int 
+main	E:\MOOC\Udemy Courses\Datastructures\Recursion\Recursion\Recursion_2\main.cpp	/^int main(int argc, char** argv)$/;"	function	line:11	signature:(int argc, char** argv)	returns:int 

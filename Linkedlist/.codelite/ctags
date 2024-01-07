@@ -1,0 +1,61 @@
+std	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr {$/;"	namespace	line:1
+shared_ptr	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr { $/;"	class	line:1	namespace:std
+operator ->	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    _Tp* operator->();$/;"	prototype	line:2	class:std::shared_ptr	access:private	signature:()	returns:_Tp 
+reset	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr );$/;"	prototype	line:3	class:std::shared_ptr	access:private	signature:( Y* ptr )	returns:void 
+reset	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d );$/;"	prototype	line:4	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d )	returns:void 
+reset	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d, Alloc alloc );$/;"	prototype	line:5	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d, Alloc alloc )	returns:void 
+get	C:\Users\psiva\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    _T* get() const;$/;"	prototype	line:6	class:std::shared_ptr	access:private	signature:() const	returns:_T 
+Node	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_3\main.cpp	/^struct Node {$/;"	struct	line:4
+prev	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_3\main.cpp	/^    struct Node* prev;$/;"	member	line:5	struct:Node	typeref:struct:Node::Node	access:public
+data	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_3\main.cpp	/^    int data;$/;"	member	line:6	struct:Node	access:public
+next	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_3\main.cpp	/^    struct Node* next;$/;"	member	line:7	struct:Node	typeref:struct:Node::Node	access:public
+first	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_3\main.cpp	/^}* first = NULL;$/;"	variable	line:8	typeref:struct:Node
+create	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_3\main.cpp	/^void create(int A[], int n)$/;"	function	line:9	signature:(int A[], int n)	returns:void 
+Display	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_3\main.cpp	/^void Display(struct Node* p)$/;"	function	line:26	signature:(struct Node* p)	returns:void 
+Length	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_3\main.cpp	/^int Length(struct Node* p)$/;"	function	line:34	signature:(struct Node* p)	returns:int 
+Insert	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_3\main.cpp	/^void Insert(struct Node* p, int index, int x)$/;"	function	line:43	signature:(struct Node* p, int index, int x)	returns:void 
+Delete	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_3\main.cpp	/^int Delete(struct Node* p, int index)$/;"	function	line:68	signature:(struct Node* p, int index)	returns:int 
+Reverse	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_3\main.cpp	/^void Reverse(struct Node* p)$/;"	function	line:91	signature:(struct Node* p)	returns:void 
+main	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_3\main.cpp	/^int main()$/;"	function	line:103	signature:()	returns:int 
+Node	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_5\main.cpp	/^class Node{$/;"	class	line:7
+data	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_5\main.cpp	/^    int data;$/;"	member	line:9	class:Node	access:public
+next	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_5\main.cpp	/^    Node* next;$/;"	member	line:10	class:Node	access:public
+head	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_5\main.cpp	/^Node* head = new Node;$/;"	variable	line:13
+second	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_5\main.cpp	/^Node* second = new Node;$/;"	variable	line:14
+create	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_5\main.cpp	/^void create(int A[], int n){$/;"	function	line:16	signature:(int A[], int n)	returns:void 
+createSecond	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_5\main.cpp	/^void createSecond(int A[], int n, Node* p){$/;"	function	line:33	signature:(int A[], int n, Node* p)	returns:void 
+Intersection	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_5\main.cpp	/^void Intersection(Node* p, Node* q){$/;"	function	line:51	signature:(Node* p, Node* q)	returns:void 
+main	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_5\main.cpp	/^int main() {$/;"	function	line:76	signature:()	returns:int 
+Node	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^struct Node {$/;"	struct	line:3
+prev	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^    struct Node* prev;$/;"	member	line:4	struct:Node	typeref:struct:Node::Node	access:public
+data	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^    int data;$/;"	member	line:5	struct:Node	access:public
+next	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^    struct Node* next;$/;"	member	line:6	struct:Node	typeref:struct:Node::Node	access:public
+first	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^}* first = NULL, *last = NULL;$/;"	variable	line:7	typeref:struct:Node
+last	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^}* first = NULL, *last = NULL;$/;"	variable	line:7	typeref:struct:Node
+create	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^void create(int A[], int n)$/;"	function	line:8	signature:(int A[], int n)	returns:void 
+Display	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^void Display(struct Node* p)$/;"	function	line:25	signature:(struct Node* p)	returns:void 
+Length	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^int Length(struct Node* p)$/;"	function	line:33	signature:(struct Node* p)	returns:int 
+Insert	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^void Insert(struct Node* p, int index, int x)$/;"	function	line:42	signature:(struct Node* p, int index, int x)	returns:void 
+Delete	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^int Delete(struct Node* p, int index)$/;"	function	line:67	signature:(struct Node* p, int index)	returns:int 
+Reverse	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^void Reverse(struct Node* p)$/;"	function	line:90	signature:(struct Node* p)	returns:void 
+MidElement	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^int MidElement(struct Node* p)$/;"	function	line:103	signature:(struct Node* p)	returns:int 
+main	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_4\main.cpp	/^int main()$/;"	function	line:118	signature:()	returns:int 
+Node	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_1\main.cpp	/^typedef struct Node {$/;"	struct	line:4
+data	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_1\main.cpp	/^    int data;$/;"	member	line:5	struct:Node	access:public
+next	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_1\main.cpp	/^    struct Node* next;$/;"	member	line:6	struct:Node	typeref:struct:Node::Node	access:public
+Node	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_1\main.cpp	/^typedef struct Node {     int data;     struct Node* next; } Node; $/;"	typedef	line:7	typeref:struct:Node
+createList	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_1\main.cpp	/^Node* createList(int arr[], int N)$/;"	function	line:9	signature:(int arr[], int N)	returns:Node 
+display	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_1\main.cpp	/^void display(Node** list)$/;"	function	line:30	signature:(Node** list)	returns:void 
+insert	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_1\main.cpp	/^void insert(Node** list, int element, int pos)$/;"	function	line:40	signature:(Node** list, int element, int pos)	returns:void 
+main	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList_1\main.cpp	/^int main(int argc, char** argv)$/;"	function	line:59	signature:(int argc, char** argv)	returns:int 
+Node	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList2\main.cpp	/^typedef struct Node {$/;"	struct	line:4
+data	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList2\main.cpp	/^    int data;$/;"	member	line:5	struct:Node	access:public
+next	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList2\main.cpp	/^    struct Node* next;$/;"	member	line:6	struct:Node	typeref:struct:Node::Node	access:public
+Node	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList2\main.cpp	/^typedef struct Node {     int data;     struct Node* next; } Node; $/;"	typedef	line:7	typeref:struct:Node
+createList	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList2\main.cpp	/^Node* createList(int arr[], int N)$/;"	function	line:9	signature:(int arr[], int N)	returns:Node 
+display	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList2\main.cpp	/^void display(Node** list)$/;"	function	line:30	signature:(Node** list)	returns:void 
+insertList	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList2\main.cpp	/^void insertList(Node** list, int element, int pos)$/;"	function	line:40	signature:(Node** list, int element, int pos)	returns:void 
+appendList	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList2\main.cpp	/^void appendList(Node** list, int value)$/;"	function	line:59	signature:(Node** list, int value)	returns:void 
+reverseList	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList2\main.cpp	/^void reverseList(Node** list)$/;"	function	line:72	signature:(Node** list)	returns:void 
+deleteList	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList2\main.cpp	/^void deleteList(Node** list, int pos)$/;"	function	line:87	signature:(Node** list, int pos)	returns:void 
+main	E:\MOOC\Udemy Courses\Datastructures\Array and Array ADT\Linkedlist\LinkedList2\main.cpp	/^int main(int argc, char** argv)$/;"	function	line:106	signature:(int argc, char** argv)	returns:int 

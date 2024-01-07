@@ -1,0 +1,21 @@
+[{
+  "file": "D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_4\\main.cpp",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_4",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_4\\main.cpp\" -o \"D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_4\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_FindingSubsets\\main.cpp",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_FindingSubsets",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_FindingSubsets\\main.cpp\" -o \"D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_FindingSubsets\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_3\\main.cpp",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_3",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_3\\main.cpp\" -o \"D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_3\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_1\\main.cpp",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_1",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_1\\main.cpp\" -o \"D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_1\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_2\\main.cpp",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_2",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_2\\main.cpp\" -o \"D:\\Udemy Courses\\Datastructures\\Recursion\\Recursion\\Recursion_2\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }]

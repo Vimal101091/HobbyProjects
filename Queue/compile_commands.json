@@ -1,0 +1,37 @@
+[{
+  "file": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\Queue.h",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\Queue.h\" -o \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\Queue.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\UnorderedQueue.h",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\UnorderedQueue.h\" -o \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\UnorderedQueue.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\Queues.cpp",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\Queues.cpp\" -o \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\Queues.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\QueueUtils.h",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\QueueUtils.h\" -o \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\QueueUtils.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\PrioQueue.h",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\PrioQueue.h\" -o \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_3\\PrioQueue.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_1\\main.cpp",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_1",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_1\\main.cpp\" -o \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_1\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_1\\Queue.h",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_1",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_1\\Queue.h\" -o \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_1\\Queue.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_2\\main.cpp",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_2",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_2\\main.cpp\" -o \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_2\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_2\\Queue.h",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_2",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_2\\Queue.h\" -o \"D:\\Udemy Courses\\Datastructures\\Queues\\Queue\\Queue_2\\Queue.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Queue" Database="" Version="10.0.0">
+  <Project Name="Queue_1" Path="Queue_1/Queue_1.project" Active="No"/>
+  <Project Name="Queue_2" Path="Queue_2/Queue_2.project" Active="No"/>
+  <Project Name="Queue_3" Path="Queue_3/Queue_3.project" Active="Yes"/>
+  <Project Name="Queue4" Path="Queue4/Queue4.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Queue_1" ConfigName="Debug"/>
+      <Project Name="Queue_2" ConfigName="Debug"/>
+      <Project Name="Queue_3" ConfigName="Debug"/>
+      <Project Name="Queue4" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Queue_1" ConfigName="Release"/>
+      <Project Name="Queue_2" ConfigName="Release"/>
+      <Project Name="Queue_3" ConfigName="Release"/>
+      <Project Name="Queue4" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

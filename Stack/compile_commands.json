@@ -1,0 +1,9 @@
+[{
+  "file": "D:\\Udemy Courses\\Datastructures\\Stack\\Stack\\Stack_01\\main.cpp",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Stack\\Stack\\Stack_01",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Stack\\Stack\\Stack_01\\main.cpp\" -o \"D:\\Udemy Courses\\Datastructures\\Stack\\Stack\\Stack_01\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Udemy Courses\\Datastructures\\Stack\\Stack\\Stack_01\\Stack.h",
+  "directory": "D:\\Udemy Courses\\Datastructures\\Stack\\Stack\\Stack_01",
+  "command": "clang  -c \"D:\\Udemy Courses\\Datastructures\\Stack\\Stack\\Stack_01\\Stack.h\" -o \"D:\\Udemy Courses\\Datastructures\\Stack\\Stack\\Stack_01\\Stack.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }]
